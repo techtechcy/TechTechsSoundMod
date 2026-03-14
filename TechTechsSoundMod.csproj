@@ -7,8 +7,9 @@
 	</PropertyGroup>
 
 	<ItemGroup>
-		<ProjectReference Include="D:\Projects\Among_Us\MiraAPI\MiraAPI\MiraAPI.csproj" />
+		<PackageReference Include="AllOfUs.MiraAPI" Version="0.3.8" />
 	</ItemGroup>
+	
 
 	<ItemGroup>
 		<EmbeddedResource Include="Resources\**\*.*" />
