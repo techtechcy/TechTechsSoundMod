@@ -48,3 +48,10 @@ Among us doesn't just accept every .wav file. In order to process your audio fil
 <img width="491" height="158" alt="image" src="https://github.com/user-attachments/assets/8e43f5cb-01cd-4d5f-a066-0cfdcb67d809" />
 
 - Press `Export`
+
+
+## Compatibility:
+| Platfrom |  Complatible  | Notes  |
+|:---------|:-------------:|:------:|
+| Steam    |       ✅      |   -   |
+| Epic     |       ❓      |   I don't have Among Us in Epic Games, so I can't test. If you are willing to tes,t feel free to and either make a pull request or send me an email at `techtech.cy@gmail.com` to update this table    |
