@@ -54,4 +54,4 @@ Among us doesn't just accept every .wav file. In order to process your audio fil
 | Platfrom |  Complatible  | Notes  |
 |:---------|:-------------:|:------:|
 | Steam    |       ✅      |   -   |
-| Epic     |       ❓      |   I don't have Among Us in Epic Games, so I can't test. If you are willing to tes,t feel free to and either make a pull request or send me an email at `techtech.cy@gmail.com` to update this table    |
+| Epic Games|       ❓      |   I don't have Among Us in Epic Games, so I can't test. If you are willing to test feel free to and either make a pull request or send me an email at `techtech.cy@gmail.com` to update this table    |
