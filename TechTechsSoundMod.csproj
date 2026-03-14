@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<TargetFramework>net6.0</TargetFramework>
+		<Version>0.5.0</Version>
+		<Description>A mod that changes some sound files using Mira API</Description>
+		<Authors>TechTech</Authors>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="D:\Projects\Among_Us\MiraAPI\MiraAPI\MiraAPI.csproj" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<EmbeddedResource Include="Resources\**\*.*" />
+	</ItemGroup>
+
+	<Import Project="./AmongUs.props" />
+</Project>
